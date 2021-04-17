@@ -1,48 +1,30 @@
 # Retrospective
 
-<!--
-  compare your Development Strategy to your Project Board
-  how different was your planned tasks from what you actually built?
-  building something very different from your plan is not a bad thing!
-  what counts is that you learn from your mistakes and make a better plan next time.
--->
+## WEEK 1
 
 ## Stop Doing
 
-<!--
-  what did your group do that did not go very well
-  agree to stop doing this in the next project
-  this could be about anything. communication, code, review, ...
-  examples (be specific!):
-  - pushing changes directly to master/main branch
-  - claiming more issues at once than you can finish
--->
+1. **Start late**: We had a late start on Wednesday.
+2. **Do not notify absences**: You need to notify others group members when you can not participate in a meeting.
+3. **Big PR**: PR with many changes in a lot of files. Large PRs are hard to review.
 
 ## Continue Doing
 
-<!--
-  what did your group that worked vwell
-  agree to keep doing these in the next project
-  this could be about anything. communication, code, review, ...
-  examples (be specific!):
-  - making small, well-named commits
-  - using the `help-wanted` label
--->
+1. **Organizing our tasks on the project board**: It helps tracking everything that needs to get done.
+2. **Descriptive issues and PR**: It provides more detail and others can see what is being worked on.
+3. **Commenting on a PR and review**: It is a good way to provide feedback and to discuss some topics about our project.
 
 ## Start Doing
 
-<!--
-  what ideas does your group have for making a better project next time?
-  agree to give these things a try in the next projec
-  this could be about anything. communication, code, review, ...
-  examples (be specific!):
-  - use @mentions more often
-  - use the github integration in slack. /github
--->
+1. **Start on time**: Have a meeting on Sunday after class to set up week's plan and share our tasks.
+2. **Branch naming conventions**: Our feature branch should be descriptive (try to use the same name of an existing issue), prefixed with our initials or name.
+3. **Small PR**: PR should have a singular focus. We need to decompose a larger task into smaller tasks to keep the PR focused.
 
 ## Lessons Learned
 
-<!--
-  what cool things or general lessons has your team learned?
-  This can be about anything! code, collaboration, git, github, Belgian history, ...
--->
+1. Git workflow
+2. Collaborating on GitHub
+3. Breaking up our development plan into smaller working pieces.
+4. Develop a backlog.
+
+5. Create wireframes.
