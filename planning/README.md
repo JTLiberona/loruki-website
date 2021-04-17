@@ -26,17 +26,17 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ## Availability
 
-### Week 1
+### Week 2
 
 ### Availability for calling/messaging
 
 | Day       |   Rayane    |   Ekaterina   |    Widad    | Jose Tomas  | Ali |
 | --------- | :---------: | :-----------: | :---------: | :---------: | :-: |
-| Monday    | after 13:00 | before 15:00  | after 15:00 | After 16:00 | --  |
-| Tuesday   |   all day   |  after 11:00  | after 15:00 |    busy     | --  |
-| Wednesday | after 13:00 | before 17:00  | after 15:00 | After 16:00 | --  |
-| Thursday  |   all day   |    all day    | after 15:00 | After 16:00 | --  |
-| Friday    | after 13:00 | 12:00 - 15:00 | after 15:00 | After 16:00 | --  |
+| Monday    | after 13:00 | before 13:00, after 16.00 | after 15:00 | After 16:00 | --  |
+| Tuesday   |   all day   | before 13:00, after 16.00 | after 15:00 |    busy     | --  |
+| Wednesday | after 13:00 | after 13:00 | after 15:00 | After 16:00 | --  |
+| Thursday  |   all day   | before 14:00 | after 15:00 | After 16:00 | --  |
+| Friday    | after 13:00 | all day | after 15:00 | After 16:00 | --  |
 
 ### How many hours everyone has per day:
 
