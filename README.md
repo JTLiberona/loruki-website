@@ -4,8 +4,6 @@ This repository contains all the material for Loruki website project for the [H
 
 ## Contents
 
-- [Group Class 15_1: Loruki website project](#group-class-15_1-loruki-website-project)
-  - [Contents](#contents)
   - [Introduction](#introduction)
   - [Group members](#group-members)
   - [Learning goals](#learning-goals)
