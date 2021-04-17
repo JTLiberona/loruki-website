@@ -1,36 +1,42 @@
 # Planning
 
-## Group Rules
+## Video calls
 
----
+| Day                    | How  |           The topic of discussion            |
+| ---------------------- | :--: | :------------------------------------------: |
+| **Sunday** after class | Zoom | Setting up week's plan and sharing the tasks |
+| **Wednesday** at 16:00 | Zoom |             Group work progress              |
+| **Friday** at 17:00    | Zoom |                Retrospective                 |
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :--: | :--------------------: | 
-| Wednesday 16:00 | Zoom | Brainstorming |
-|     |     |                         |
+| Day                          | How  |          The topic of discussion           |
+| ---------------------------- | :--: | :----------------------------------------: |
+| Wednesday (April 14th) 16:00 | Zoom | Brainstorming, backlog, project definition |
+| Saturday (April 17th) 11:00  | Zoom |            Retrospective week 1            |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
--  **Slack Messaging**:
--  **Slack Video Calls**:
--  **Issues**:
--  **Pull Requests**:
+-  **Slack Messaging**: General communication
+-  **Zoom Video Calls**: 3 times per week
+-  **Issues**: For group and individual assignments and provide more detail about how to complete the work
+-  **Pull Requests**: For work review
 
 ## Availability
 
+### Week 1
+
 ### Availability for calling/messaging
 
-| Day       |   Rayane    |   Ekaterina   |    Widad     | Jose Tomas  |        Ali         |
-| --------- | :---------: | :-----------: | :---------: | :---------: | :-----------------: |
-| Monday    | after 13:00 | before 15:00  | after 15:00| After 16:00 | -- |
-| Tuesday   |   all day   |  after 11:00  | after 15:00|    busy     | -- |
-| Wednesday | after 13:00 | before 17:00  | after 15:00 | After 16:00 |  -- |
-| Thursday  |   all day   | all day | after 15:00 | After 16:00 | -- |
-| Friday    | after 13:00 | 12:00 - 15:00 | after 15:00 | After 16:00 | -- |
+| Day       |   Rayane    |   Ekaterina   |    Widad    | Jose Tomas  | Ali |
+| --------- | :---------: | :-----------: | :---------: | :---------: | :-: |
+| Monday    | after 13:00 | before 15:00  | after 15:00 | After 16:00 | --  |
+| Tuesday   |   all day   |  after 11:00  | after 15:00 |    busy     | --  |
+| Wednesday | after 13:00 | before 17:00  | after 15:00 | After 16:00 | --  |
+| Thursday  |   all day   |    all day    | after 15:00 | After 16:00 | --  |
+| Friday    | after 13:00 | 12:00 - 15:00 | after 15:00 | After 16:00 | --  |
 
 ### How many hours everyone has per day:
 
